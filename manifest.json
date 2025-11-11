@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "metadata": {
+    "title": "Posit Connect Off-Host Test App",
+    "content_type": "shiny",
+    "version": "0.0.1",
+    "author": "Your Name",
+    "description": "A minimal Shiny app to test off-host execution on Posit Connect."
+  }
+}
